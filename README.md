@@ -1,0 +1,1 @@
+Este proyecto comenzo en mi primer repositorio FacturacionMasterpez estaba en angular 16 con typescript y base de datos en firestore de google firebase pero decidi cambiar a c# y sql server porque mi base de datos era pequeña y era mas facil manejarlo de esta forma.
